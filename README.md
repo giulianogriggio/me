@@ -15,7 +15,7 @@ Specializing in **modern distributed applications, scalable infrastructures, and
 
 ---
 
-# Tecnologie e Concetti Chiave
+# Tecnology and key concept
 
 | **Categoria** | **Tecnologie e Concetti Chiave** |
 |--------------|---------------------------------|
