@@ -1,5 +1,20 @@
 ## Giuliano Griggio
 
+# 📌 Professional Summary
+
+Mainly focused on **Business and Technical Leadership**, I am a **Manager and Senior Solution Architect** with over **20+ years of experience**. I have built a career marked by **dynamic leadership** and **results-driven outcomes**, both in **business** and **technical domains**.  
+
+I have achieved key goals in the **enterprise space** by leading **multidisciplinary teams** and driving **digital transformation** with innovative solutions.  
+
+My expertise includes:  
+- **Designing cloud-native architectures**  
+- **Modernizing legacy applications** into distributed solutions and **microservices**  
+- **Implementing multi-agent AI systems** to optimize business processes  
+
+Specializing in **modern distributed applications, scalable infrastructures, and multi-cloud solutions**, I focus on continuously improving **enterprise architectures** to foster **innovation and resilience**.  
+
+---
+
 # Tecnologie e Concetti Chiave
 
 | **Categoria** | **Tecnologie e Concetti Chiave** |
